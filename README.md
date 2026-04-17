@@ -39,14 +39,9 @@ This is an Alzheimer's disease diagnosis application that leverages artificial n
    python src/train_model.py
    ```
 
-### Running the Application
+### Access the Application
 
-1. Start the Flask app:
-   ```bash
-   python src/app.py
-   ```
-
-2. Access the app at `http://localhost:5000`
+ Access the app at (https://neuro-metabolic-sentinel-eda2a86c.base44.app)'
 
 ## Contributing
 
